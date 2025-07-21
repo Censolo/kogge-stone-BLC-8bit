@@ -1,6 +1,8 @@
 # 8-bit Kogge-Stone BLC Adder
 
 <img width="360" alt="image" src="https://github.com/user-attachments/assets/e88df524-e8c9-485e-aae0-1dfafa9d9282" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/7968b487-6265-4722-9907-e80d39c9c549" />
+
 
 
 This repository contains the final report of a university project for UNIBO Master's degree in Electronics. It is focused on the design, simulation, and characterization of a digital adder based on a modified Kogge-Stone architecture with BLC optimization.
